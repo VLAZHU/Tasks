@@ -1,0 +1,5 @@
+\contentsline {chapter}{\numberline {1}De Origine Mimici}{2}{}%
+\contentsline {section}{\numberline {1.1}De Natura Mimici et Periculis Occultis}{2}{}%
+\contentsline {subsection}{\numberline {1.1.1}De Arte Imitandi Perfectissima}{3}{}%
+\contentsline {subsection}{\numberline {1.1.2}De Duplici Persona et Mente Fracta}{3}{}%
+\contentsline {chapter}{\numberline {2}De Consequentiis et Fat Inexorabili Mimici}{5}{}%
